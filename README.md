@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bhly
+- 👀 I’m interested in object-oriented programming, software architecture and user interface design.
+- 🌱 I’m currently learning GUI programming with wxWidgets for C++
